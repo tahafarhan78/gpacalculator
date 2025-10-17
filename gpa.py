@@ -100,4 +100,6 @@ if len(cgpa_records) > 0:
     elif overall_cgpa >= 3.0:
         rank = "First Division"
     elif overall_cgpa >= 2.5:
-        rank = "Second Divis
+        rank = "Second Divis"
+    else
+        rank= "fail"
